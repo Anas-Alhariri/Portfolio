@@ -9,23 +9,10 @@ const Header = () => {
             <span style={{ fontSize: "4rem" }}>(Max)</span>
           </h1>
           <h2 className="text-white-50 mx-auto mt-2 mb-5">
-            A free, responsive, one page Bootstrap theme created by Start
-            Bootstrap.
+            Software, Full-Stack Web and Mobile Application Developer
           </h2>
           <h2 className="text-white-50 mx-auto mt-2 mb-5">
-            -
-            <img
-              src="assets/img/infinity.png"
-              style={{ width: "60px" }}
-              alt="infinity"
-            />{" "}
-            +
-            <img
-              src="assets/img/infinity.png"
-              style={{ width: "60px" }}
-              alt="infinity"
-            />{" "}
-            = Perfiction
+            <span class="perfection text-uppercase"> Perfection </span>
           </h2>
           <a className="btn btn-primary js-scroll-trigger" href="#about">
             Get to know me

@@ -9,7 +9,7 @@ const About = () => {
               Grayscale is a free Bootstrap theme created by Start Bootstrap. It
               can be yours right now, simply download the template on
               <a href="https://startbootstrap.com/theme/grayscale/">
-                the preview page
+                &nbsp;the preview page
               </a>
               . The theme is open source, and you can use it for any purpose,
               personal or commercial.
