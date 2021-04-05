@@ -33,8 +33,13 @@ const Navbar = () => {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll-trigger" href="#signup">
+              <a className="nav-link js-scroll-trigger" href="#contact">
                 Contact
+              </a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link js-scroll-trigger" href="#work">
+                Work History
               </a>
             </li>
           </ul>

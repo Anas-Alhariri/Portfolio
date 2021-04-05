@@ -1,7 +1,7 @@
 const Contact = () => {
   return (
     // <!-- Contact-->
-    <section className="contact-section bg-black">
+    <section className="contact-section bg-black" id="contact">
       <div className="container">
         <div className="row">
           <div className="col-md-4 mb-3 mb-md-0">
