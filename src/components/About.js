@@ -4,15 +4,20 @@ const About = () => {
       <div className="container">
         <div className="row">
           <div className="col-lg-8 mx-auto">
-            <h2 className="text-white mb-4">Built with Bootstrap 4</h2>
+            <h2 className="text-white mb-4">About Me</h2>
+            <p className="text-white-50" style={{ marginBottom: "10px" }}>
+              Hi, my name is Anas - You may call me Max -, I am a Software, Web
+              and Mobile Develoepr. I cary in my heart a hug love for coding,
+              and I love the challenges that come along with it. Challenges are
+              my fuel that drives me closer to perfection. No one knows it all,
+              so here I am enjoying doing my takes at hand trying to reach the
+              infinity :)
+            </p>
             <p className="text-white-50">
-              Grayscale is a free Bootstrap theme created by Start Bootstrap. It
-              can be yours right now, simply download the template on
-              <a href="https://startbootstrap.com/theme/grayscale/">
-                &nbsp;the preview page
-              </a>
-              . The theme is open source, and you can use it for any purpose,
-              personal or commercial.
+              I am developing my knowledge every single day and all the time! I
+              can't set without doing something, I have learned something long
+              time ago through my humble experience in life. Habbits are
+              powerfull, so I decided to make success my essential habiit.
             </p>
           </div>
         </div>
