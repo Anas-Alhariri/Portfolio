@@ -17,7 +17,7 @@ const Navbar = () => {
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
-          Menu
+          <span className="menu">Menu</span>
           <i className="fas fa-bars"></i>
         </button>
         <div className="collapse navbar-collapse" id="navbarResponsive">
@@ -32,14 +32,16 @@ const Navbar = () => {
                 Projects
               </a>
             </li>
-            <li className="nav-item">
-              <a className="nav-link js-scroll-trigger" href="#contact">
-                Contact
-              </a>
-            </li>
+
             <li className="nav-item">
               <a className="nav-link js-scroll-trigger" href="#work">
                 Work History
+              </a>
+            </li>
+
+            <li className="nav-item">
+              <a className="nav-link js-scroll-trigger" href="#contact">
+                Contact
               </a>
             </li>
           </ul>

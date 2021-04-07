@@ -6,7 +6,8 @@ const Header = () => {
           <h1 className="mx-auto my-0 text-uppercase">
             Anas Alhariri
             <br />
-            <span style={{ fontSize: "4rem" }}>(Max)</span>
+            {/* <span style={{ fontSize: "4rem" }}>(Max)</span> */}
+            <span className="max">(Max)</span>
           </h1>
           <h2 className="text-white-50 mx-auto mt-2 mb-5">
             Software, Full-Stack Web and Mobile Application Developer
