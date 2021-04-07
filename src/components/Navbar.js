@@ -1,3 +1,5 @@
+import resume from "../assets/downloadables/Anas-Alhariri-Resume.docx";
+
 const Navbar = () => {
   return (
     <nav
@@ -42,6 +44,11 @@ const Navbar = () => {
             <li className="nav-item">
               <a className="nav-link js-scroll-trigger" href="#contact">
                 Contact
+              </a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link js-scroll-trigger" href={resume}>
+                Resume
               </a>
             </li>
           </ul>

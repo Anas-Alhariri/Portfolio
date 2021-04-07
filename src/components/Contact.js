@@ -1,3 +1,4 @@
+import resume from "../assets/downloadables/Anas-Alhariri-Resume.docx";
 const Contact = () => {
   return (
     // <!-- Contact-->
@@ -38,6 +39,9 @@ const Contact = () => {
               </div>
             </div>
           </div>
+          <a className="btn btn-dark mt-5 mx-auto" href={resume}>
+            Download my Resume
+          </a>
         </div>
         <div className="social d-flex justify-content-center">
           <a className="mx-2" href="#!">
