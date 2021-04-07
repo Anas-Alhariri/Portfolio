@@ -1,3 +1,4 @@
+import ipad from "../assets/img/ipad.png";
 const About = () => {
   return (
     <section className="about-section text-center" id="about">
@@ -21,7 +22,7 @@ const About = () => {
             </p>
           </div>
         </div>
-        <img className="img-fluid" src="assets/img/ipad.png" alt="" />
+        <img className="img-fluid" src={ipad} alt="" />
       </div>
     </section>
   );
