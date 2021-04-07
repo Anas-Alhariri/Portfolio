@@ -3,7 +3,7 @@ const Header = () => {
     <header className="masthead">
       <div className="container d-flex h-100 align-items-center">
         <div className="mx-auto text-center">
-          <h1 className="mx-auto my-0 text-uppercase">
+          <h1 className="mx-auto my-0 text-uppercase anas">
             Anas Alhariri
             <br />
             {/* <span style={{ fontSize: "4rem" }}>(Max)</span> */}

@@ -11542,3 +11542,7 @@ body {
 .menu {
   padding-right: 6px;
 }
+
+.anas {
+  font-size: calc(100vw/20) !important;
+}
